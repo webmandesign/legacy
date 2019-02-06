@@ -1,6 +1,6 @@
 # Info
 
-This repository contains **obsolete, legacy WordPress themes** created by WebMan Design before year 2015. These themes were deprecated and [removed from distribution on 1st June 2015](https://www.facebook.com/webmandesigneu/posts/975621742461627).
+This repository contains **obsolete, discontinued, legacy WordPress themes** created by WebMan Design before year 2015. These themes were deprecated and [removed from distribution on 1st June 2015](https://www.facebook.com/webmandesigneu/posts/975621742461627).
 
 
 ## Important
